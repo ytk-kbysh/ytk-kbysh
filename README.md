@@ -6,7 +6,7 @@ Coding since 2024 March.
 
 My experiences include marketing researchers, product management, project management as well as running a DE subsidiary of a company. #automotive #spacetech #logistics
 
-For software development, I am studying the ERP, and future business it infrastructure for #DAO, which could enables us to pursue alternative ways of working.
+For software development, I am learning aobut the ERP especially odoo, and I love imagining future business IT infrastructure for #DAO, which could enables us to pursue alternative ways of working.
 
 My personal interests lie in social system reforms, sociology, photography, and music (bad clarinet player).
 
